@@ -1,0 +1,1 @@
+# Waze-Suckless-congiguration
