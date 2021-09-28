@@ -1,0 +1,43 @@
+# Colors (WAZE)
+colors:
+  # Default colors
+  primary:
+    background: '#312b3d'
+    foreground: '#dfcdb3'
+
+  # Normal colors
+  normal:
+    black:   '#000000'
+    red:     '#ff5d72'
+    green:   '#ff5d72'
+    yellow:  '#ffffff'
+    blue:    '#cc6b8c'
+    magenta: '#ff79c6'
+    cyan:    '#fcacbc'
+    white:   '#bfbfbf'
+
+  # Bright colors
+  bright:
+    black:   '#000000'
+    red:     '#ff5d72'
+    green:   '#ff5d72'
+    yellow:  '#ffffff'
+    blue:    '#cc6b8c'
+    magenta: '#ff79c6'
+    cyan:    '#fcacbc'
+    white:   '#bfbfbf'
+
+  dim:
+    black:   '#000000'
+    red:     '#ff5d72'
+    green:   '#ff5d72'
+    yellow:  '#ffffff'
+    blue:    '#cc6b8c'
+    magenta: '#ff79c6'
+    cyan:    '#fcacbc'
+    white:   '#bfbfbf'
+
+
+
+key_bindings:
+    - { key: Return,   mods: Control|Shift, action: SpawnNewInstance }
